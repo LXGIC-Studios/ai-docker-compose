@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-docker-compose.svg)](https://www.npmjs.com/package/ai-docker-compose)
 [![npm downloads](https://img.shields.io/npm/dm/ai-docker-compose.svg)](https://www.npmjs.com/package/ai-docker-compose)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-docker-compose)](https://github.com/lxgic-studios/ai-docker-compose/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Scans your project and generates a docker-compose.yml that actually makes sense.
