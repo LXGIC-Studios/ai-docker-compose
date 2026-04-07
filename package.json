@@ -1,5 +1,5 @@
 {
-  "name": "ai-docker-compose",
+  "name": "@lxgicstudios/ai-docker-compose",
   "version": "1.0.0",
   "description": "AI-powered Docker Compose generator - multi-container configs with GPT optimization",
   "main": "dist/index.js",
