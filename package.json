@@ -39,16 +39,7 @@
     "orchestration",
     "devops",
     "site-architecture",
-    "ai-search-optimization",
-    "generative-engine-optimization",
-    "geo",
-    "june-2026-core-update",
-    "faq-rich-results-removed",
-    "ai-overview-citation",
-    "structured-data-seo",
-    "llms-txt-seo",
-    "2026-standards",
-    "modern-seo"
+    "june-2026-core-update"
   ],
   "license": "MIT",
   "main": "dist/index.js",
